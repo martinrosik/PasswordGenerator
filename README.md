@@ -16,8 +16,8 @@ A simple, intuitive password generator built with Python and Tkinter to help you
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/martinrosik/PasswordGenerator
-   cd password-generator
+   git clone https://github.com/martinrosik/PasswordGenerator.git
+   cd PasswordGenerator
    ```
    
 2. **Install Requirements** (Tkinter is typically included with Python, but double-check if you have it installed):
